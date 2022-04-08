@@ -1,5 +1,7 @@
 # Desafio 2 - Codelândia - JordanShoes
 
+![Rustic Flower Floral Watercolor Wedding Invitation Banner Landscape](https://user-images.githubusercontent.com/89169695/162544312-7a4b97b6-88e0-4474-a79b-69c985dc5e04.png)
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -25,7 +27,7 @@ Você pode conferir o lyout do projeto através do link abaixo:
 
 ## :globe_with_meridians: Deploy
 
-Deploy feito através do Versel. Confira <a href="">neste link</a>.
+Deploy feito através do Versel. Confira <a href="https://desafio-2-codelandia-two.vercel.app/">neste link</a>.
 
 
 ---
