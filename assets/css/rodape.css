@@ -1,0 +1,11 @@
+
+.rodape{
+  background-color: var(--cor-preto-principal);
+  color: var(--cor-branco-principal);
+  font-family: var(--fonte);
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 196.19%;
+  padding: 1em 0;
+  text-align: center;
+}

@@ -1,0 +1,23 @@
+.cabecalho {
+  text-align: center;
+}
+
+.cabecalho p {
+  background-color: var(--cor-preto-principal);
+  color: var(--cor-branco-principal);
+  font-family: var(--fonte);
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 196.19%;
+  padding: 1em 0;
+}
+
+.cabecalho h1 {
+  background-color: var(--cor-branco-principal);
+  font-family: var(--fonte);
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 196.19%;
+  margin: 0;
+  padding: 1rem 0;
+  }

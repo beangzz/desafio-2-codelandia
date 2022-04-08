@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&display=swap');
+
+:root{
+  --cor-branco-principal: #F9F9F9;
+  --cor-preto-principal: #181818;
+  --cor-fundo-tenis: #EBE9EA;
+  --fonte: 'Montserrat';
+}
+
+@media screen and (max-width: 720px) {
+  
+  body, html{
+    margin: 0;
+    width: auto;
+  }
+}
+  
