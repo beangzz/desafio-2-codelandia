@@ -10,7 +10,7 @@
 
 
 >A ideia é treinar os conceitos de HTML e CSS através da replicação do layout de um site.
-Este projeto foi feito atravéz de um desafio do canal do discord <a href="https://discord.gg/wNCWTVuxyz">Codelândia</a>
+Este projeto foi feito através de um desafio do canal do discord <a href="https://discord.gg/wNCWTVuxyz">Codelândia</a>
 
 
 <br>
